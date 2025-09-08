@@ -60,9 +60,9 @@
       "courses": []
     }
   ],
-  "skills": [Julia, Python, MATLAB, C++, Java, OCaml],
-  "languages": [English, French],
-  "interests": [Performance Estimation Problems (PEP), Online Optimization, Decentralized Optimization, Combinatorial Optimization, Operations Research],
+  "skills": ["Julia", "Python", "MATLAB", "C++", "Java", "OCaml"],
+  "languages": ["English", "French"],
+  "interests": ["Performance Estimation Problems", "Online Optimization", "Decentralized Optimization", "Combinatorial Optimization", "Operations Research"],
   "references": [],
   "publications": [
     {
