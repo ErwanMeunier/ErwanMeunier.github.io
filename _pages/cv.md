@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, UCLouvain, 2028 (expected)
+* M.S. in Combinatorial Optimization and Operations Research, Nantes Université, 2024
+* M.S. in Computer Science (Double degree), Université Libre de Bruxelles, 2024
+* B.S. in Mathematics and Computer Science, Nantes Université, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* First Semester 2024: Research Internship
+  * UCLouvain - ICTEAM
+  * Topic: Tight Worst-case Analysis of Online Gradient Descent
+  * Supervisor: Julien M. Hendrickx and Renato Vizuete
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Internship
+  * Centre National de la Recherche Scientifique (CNRS) - École Centrale de Nantes
+  * Topic:  Smooth maximum based on entropic regularization applied to continuous monovariate functions minimax approximation.
+  * Supervisor: Alexandre Goldsztejn and Christophe Jermann
+ 
+* First Semester 2023: Part-time Research Internship
+  * LS2N - Nantes Université
+  * Duties included: Improvement of GravityMachine a Feasibily-Pump based heuristic for approximating the Pareto-Optimal front in Binary Multi-Objective Optimization
+  * Supervisor: Xavier Gandibleux and Saïd Hanafi 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* First Semester 2022: Research Internship
+  * LS2N - Nantes Université
+  * Duties included: Linear Time Computation of Variation Degree and Commonalities on Feature Diagrams
+  * Supervisor: Charlotte Truchet and Mathieu Vavrille
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Julia, Python, MATLAB, C++, Java 
+* PESTO and PEPit toolboxes
 
 Publications
 ======
