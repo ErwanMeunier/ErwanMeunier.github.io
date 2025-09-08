@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/combinatorial_optimization
 venue: "UCLouvain, École Polytechnique de Louvain"
-date: 2024
+date: 2024-09-01
 location: "Louvain-La-Neuve, Belgium"
 ---
 
