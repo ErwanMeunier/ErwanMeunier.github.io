@@ -1,68 +1,68 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Erwan Meunier",
+    "email": "erwan.meunier@uclouvain.be",
+    "phone": "+32.(0)10.47.22.64",
+    "website": "erwanmeunier.github.io",
+    "summary": "PhD Student in Optimization, in the ICTEAM at the UCLouvain in Belgium.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Avenue Georges Lemaître 4",
+      "postalCode": "1348",
+      "city": "Louvain-La-Neuve",
+      "countryCode": "BE",
+      "region": "Brabant-Wallon"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Erwan Meunier",
+        "url": "https://scholar.google.com/citations?user=h_O-AUEAAAAJ&hl=fr&oi=ao"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Erwan Meunier",
+        "url": "https://orcid.org/0000-0003-2991-2823"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/ErwanMeunier"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Nantes Université (with Institut Mines-Télécom Atlantique)",
+      "area": "M.S. in Optimization and Operations Research (ORO + CMI)",
+      "studyType": "Applied Mathematics and Computer Science",
+      "startDate": "2022",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Université Libre de Bruxelles",
+      "area": "M.S. in Computer Science (Double degree)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2024",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Nantes Université",
+      "area": "B.S. in Mathematics and Computer Science",
+      "studyType": "Mathematics and Computer Science",
+      "startDate": "2019",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [Julia, Python, MATLAB, C++, Java, OCaml],
+  "languages": [English, French],
+  "interests": [Performance Estimation Problems (PEP), Online Optimization, Decentralized Optimization, Combinatorial Optimization, Operations Research],
   "references": [],
   "publications": [
     {
@@ -126,17 +126,17 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Combinatorial Optimization",
+      "institution": "UCLouvain, École Polytechnique de Louvain (EPL)",
+      "date": "2024-Today",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
+      "course": "Mathématiques discrètes - Structures combinatoires",
+      "institution": "UCLouvain, Department of Mathematics",
       "date": "2015-01-01",
-      "role": "Workshop",
+      "role": "Teaching Assistant",
       "description": ""
     }
   ],
