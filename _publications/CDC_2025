@@ -1,0 +1,14 @@
+---
+title: "Several Performance Bounds on Decentralized Online Optimization are Highly Conservative and Potentially Misleading"
+collection: publications
+category: manuscripts
+permalink: /publication/CDC_2025
+excerpt: 'We analyze Decentralized Online Optimization algorithms using the Performance Estimation Problem approach which allows, to automatically compute exact worst-case performance of optimization algorithms. Our analysis shows that several available performance guarantees are very conservative, sometimes by multiple orders of magnitude, and can lead to misguided choices of algorithm. Moreover, at least in terms of worst-case performance, some algorithms appear not to benefit from inter-agent communications for a significant period of time. We show how to improve classical methods by tuning their step-sizes, and find that we can save up to 20% on their actual worst-case performance regret.'
+date: 2025-09-08
+venue: '64th Conference on Decision and Control'
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: https://arxiv.org/abs/2509.06466'
+bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
+citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
